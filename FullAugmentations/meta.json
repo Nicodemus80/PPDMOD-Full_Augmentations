@@ -1,0 +1,24 @@
+{
+  "ID": "Nicodemus.FullAugmentations",
+  "AssemblyName": "FullAugmentations.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Nicodemus"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Full Augmentations"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Removes the bionic augments and mutations limit of 2"
+    }
+  ],
+  "Dependencies": []
+}
